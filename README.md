@@ -1,5 +1,5 @@
 
-### Configuration pour lancer le projet sur votre machine, j'ai fais exactement comme votre premier exemple en cours
+### Configuration pour lancer le projet sur votre machine.
 
 1 - Ouvrir votre terminal 
 2 - Faites un git clone + url 
